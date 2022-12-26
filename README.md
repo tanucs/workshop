@@ -1,2 +1,2 @@
 # Guruneel Aesthetics
-Checkout the live working: https://patil-tanay.github.io/FUNDAMENTALS/
+Checkout the live working: https://tanucs.github.io/workshop/
